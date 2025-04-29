@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 235ca5a1a4f73c54aadc9a407b6ab088
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295203
+  packageName: 'Runner Clash Template : Hypercasual Starter Kit'
+  packageVersion: 1.1.0
+  assetPath: Assets/RoyalCod/Template_RunnerClash/Animations/Obstacles/DeathObstacle_MovingSaw.anim
+  uploadId: 751676

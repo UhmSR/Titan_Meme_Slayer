@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2d70da4527798e42911bc414b54c91f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295203
+  packageName: 'Runner Clash Template : Hypercasual Starter Kit'
+  packageVersion: 1.1.0
+  assetPath: Assets/RoyalCod/Template_RunnerClash/Animations/Obstacles/DeathObstacle_Hammer.anim
+  uploadId: 751676

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09a85298d65241f45a94b58a44c0e5b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295203
+  packageName: 'Runner Clash Template : Hypercasual Starter Kit'
+  packageVersion: 1.1.0
+  assetPath: Assets/RoyalCod/Template_RunnerClash/Prefabs/DeathObstacles/MovingSaw.prefab
+  uploadId: 751676
